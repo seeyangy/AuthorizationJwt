@@ -1,3 +1,3 @@
-# AuthorizationJwt
+# NetCore
 
-.NetCore 集成JWT
+.NetCore 开发框架
